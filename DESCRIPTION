@@ -1,0 +1,12 @@
+Package: clustErrors
+Type: Package
+Title: Clustering data with measurement errors
+Version: 0.1.0
+Author: Fabio Silva
+Maintainer: Fabio Silva <fsilva@bournemouth.ac.uk>
+Description: Implementation of the hError and kError algorithms for error-based clustering developed by Kumar and Patel (2007) <doi:10.1016/j.csda.2006.12.012>. At the moment this is only a one-dimensional implementation.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: Hmisc
+RoxygenNote: 6.1.1
